@@ -1,2 +1,2 @@
-# IEEE-SMB---Machine-Learning
+# IEEE-SBM-Machine-Learning
 Techno Colosseum
